@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+//testing
 public class Test {
 
 	public static class ProductReviewScore {
@@ -50,7 +50,7 @@ public class Test {
 	}
 
 	public static void main(String[] args) {
-		int scoreCount = 15;
+		//int scoreCount = 15;
 		
 		List<ProductReviewScore> list = new ArrayList<>();
 		ProductReviewScore pr = new ProductReviewScore(1, 10.0);
